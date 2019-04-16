@@ -1,7 +1,7 @@
 # Cryptography
 [ ! ] Simple Program To Convert Text To Hash
 
-[!Version(1.0)]
+[![Version][1.0]]
 
 ![alt text](https://github.com/FajarTheGGman/Cryptografi/blob/master/.img/pict3.jpeg)
 
