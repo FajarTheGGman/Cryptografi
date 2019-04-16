@@ -1,5 +1,5 @@
-# Cryptografi
-[ ! ] Simple Program For Convert Text To Hash
+# Cryptography
+[ ! ] Simple Program To Convert Text To Hash
 
 [!Version(1.0)]
 
